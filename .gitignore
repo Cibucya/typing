@@ -1,1 +1,4 @@
 build/
+
+# masOS system files
+.DS_Store
