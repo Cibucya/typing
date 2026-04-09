@@ -1,9 +1,8 @@
 #include <iostream>
 #include <string>
+#include <vector>
 #include <unordered_set>
-
 #include "term.hpp"
-
 #include "phrase.hpp"
 
 using namespace std;

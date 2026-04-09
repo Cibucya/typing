@@ -4,6 +4,7 @@
 #include <string>
 #include <vector>
 #include <fstream>
+#include <iterator>
 
 std::string get_file_data(std::string path) {
     std::ifstream file(path);
